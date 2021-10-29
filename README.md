@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá 👋 Estou praticando Python em uma maratona própria, dá uma olhada no meu reposositório "praticandoPython". 🐍
 <!--
 **ClaudemirWS/ClaudemirWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
