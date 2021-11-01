@@ -1,5 +1,5 @@
 ### Olá 👋 
-#### 🐍 Estou praticando Python 3 em uma maratona própria, dá uma olhada no meu repositório "PraticandoPython".
+#### 🐍 Estou exercitando Python 3 em uma maratona própria, dá uma olhada no meu repositório "PraticandoPython".
 <!--
 **ClaudemirWS/ClaudemirWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
