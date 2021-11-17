@@ -1,9 +1,8 @@
-##  Olá, sou Claudemir Souza, atualmente estou praticando muito Python!
 
 <div align="center">
   <!-- <a href="https://www.linkedin.com/in/claudemirwss/"> -->
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&custom_title=Meu Gitbhub&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=3&custom_title=Linguagens Mais Utilizadas&theme=dark"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&custom_title=Meu Gitbhub&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=3&custom_title=Linguagens Mais Utilizadas&theme=dark"/>
 </div>
   
   ##
