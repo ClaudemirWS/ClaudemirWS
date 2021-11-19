@@ -26,7 +26,7 @@ Olá, meu nome é Claudemir Souza.
 
 #### Sobre mim 🧑
 
-- Tenho Graduação Superior em Tecnologia em Jogos Digitais pela Universidade Católica de Pernambuco.
+- Tenho Graduação Superior Tecnológica em Jogos Digitais pela Universidade Católica de Pernambuco.
 - Pretendo iniciar em Dezembro de 2021 o Curso Técnico em Desenvolvimento de Sistemas pelo SENAC.
 
 <!-- <img height="40px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> -->
