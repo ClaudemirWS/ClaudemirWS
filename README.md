@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/claudemirwss/">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&theme=tokyonight"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&&custom_title=Meu Status no Github&theme=dark"/>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=2&custom_title=Linguagens Mais Utilizadas&theme=dark"/>
 </div>
 
@@ -26,8 +26,8 @@ Olá, meu nome é Claudemir Souza.
 
 #### Sobre mim 🧑
 
-- Tenho Graduação superior em Tecnologia em Jogos Digitais pela Universidade Católica de Pernambuco.
-- Pretendo iniciar em Dezembro de 2021 Técnico em Desenvolvimento de Sistemas pelo SENAC.
+- Tenho Graduação Superior em Tecnologia em Jogos Digitais pela Universidade Católica de Pernambuco.
+- Pretendo iniciar em Dezembro de 2021 o Curso Técnico em Desenvolvimento de Sistemas pelo SENAC.
 
 <!-- <img height="40px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> -->
 <!-- <img height="40px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
