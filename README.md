@@ -15,11 +15,11 @@ Olá, meu nome é Claudemir Souza.
 
 #### Atualmente foco meus estudos em 🎯
 
-- PYTHON
+- PYTHON 
+- HTML
 
 #### Pretendo estudar em seguida 📆
 
-- HTML
 - CSS
 - JAVASCRIPT
 - SQL
