@@ -1,17 +1,23 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/claudemirwss/">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&&custom_title=Meu Status no Github&theme=dark"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=2&custom_title=Linguagens Mais Utilizadas&theme=dark"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&&custom_title=Meu Status no Github&theme=tokyonight"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=2&custom_title=Linguagens Mais Utilizadas&theme=tokyonight"/>
+<br>  
+<br>
+<img height="40px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
+<!-- <img height="40px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
+<!--<img height="40px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> -->  
+  
 </div>
 
 
 <div align="left"> 
 
 <h3 align="center">  <br>
-Olá, meu nome é Claudemir Souza. 
+Olá, obrigado pela visita! Um pouco sobre mim:
 <br>
-</h3>
+</h3> 
   
 #### Estudos em estado de continuidade 🔄
   
@@ -32,9 +38,6 @@ Olá, meu nome é Claudemir Souza.
 - Tenho Graduação Superior Tecnológica em Jogos Digitais pela Universidade Católica de Pernambuco.
 - Pretendo iniciar em Dezembro de 2021 o Curso Técnico em Desenvolvimento de Sistemas pelo SENAC.
 
-<!-- <img height="40px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> -->
-<!-- <img height="40px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
-<!--<img height="40px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> -->
 </div>
 
 ##
