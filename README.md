@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/claudemirwss/">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&&custom_title=Meu Status no Github&theme=tokyonight"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=2&custom_title=Linguagens Mais Utilizadas&theme=tokyonight"/>
+<img height="149px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=2&custom_title=Linguagens Mais Utilizadas&theme=tokyonight"/>
 <br>  
 <br>
 <img height="40px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
