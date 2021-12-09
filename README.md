@@ -34,7 +34,7 @@ Olá, obrigado pela visita! Um pouco sobre mim:
 #### Sobre mim 🧑
 
 - Tenho Graduação Superior Tecnológica em Jogos Digitais pela Universidade Católica de Pernambuco.
-- Pretendo iniciar em Dezembro de 2021 o Curso Técnico em Desenvolvimento de Sistemas pelo SENAC.
+- Cursando atualmente Técnico em Desenvolvimento de Sistemas pelo SENAC.
 
 </div>
 
