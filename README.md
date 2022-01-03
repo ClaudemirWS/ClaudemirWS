@@ -23,13 +23,14 @@ Olá, obrigado pela visita! Um pouco sobre mim:
 
 #### Estudos com maior foco no momento 🎯
 
+- HTML
 - JAVASCRIPT
 
 #### Pretendo estudar em seguida 📆
 
-- HTML
 - CSS
 - SQL
+- JAVA
 
 #### Sobre mim 🧑
 
