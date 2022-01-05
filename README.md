@@ -1,7 +1,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/claudemirwss/">
-<img height="1650px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&&custom_title=Meu Status no Github&theme=tokyonight"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&&custom_title=Meu Status no Github&theme=tokyonight"/>
 <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=4&hide=Powershell&custom_title=Linguagens Mais Utilizadas&theme=tokyonight"/>  
  
 <!--<img height="30px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> --> 
