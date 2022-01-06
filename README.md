@@ -15,7 +15,7 @@
 Oi! Obrigado por visitar o meu perfil.
 </h3>
 <h4 allign="center"< <br>
-Em 2016 me formei como desenvolvedor de jogos, sempre tive interesse em tecnologia e na época aprender design gráfico era minha maior vontade. Na graduação, aprendi o que era programar, utilizei algumas tecnologias e me apaixonei pela coisa. O tempo passou e em 2021 iniciei estudos em definitivo na área de programação. Atualmente busco evoluir como programador, faço um curso técnico e estou buscando ordenadamente fazer cursos avulsos que complementem minha capacitação, sendo assim, meu perfil no GitHub é um reflexo de meus avanços e das tecnologias que estou buscando aprender e evoluir.
+Em 2016 me formei como desenvolvedor de jogos, sempre tive interesse em tecnologia e na época aprender design gráfico era minha maior vontade. Na graduação, aprendi o que era programar, utilizei algumas tecnologias e me apaixonei pela coisa. O tempo passou e em 2021 iniciei estudos em definitivo na área de programação. Atualmente busco evoluir como programador, faço um curso técnico e estou buscando fazer cursos avulsos que complementem minha capacitação, sendo assim, meu perfil no GitHub é um reflexo de meus avanços e das tecnologias que estou buscando aprender e evoluir.
 </h4> 
   
 #### Estudos em estado de continuidade 🔄
