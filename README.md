@@ -28,8 +28,8 @@ Em 2016 me formei como desenvolvedor de jogos, sempre tive interesse em tecnolog
 
 #### Pretendo estudar em seguida 📆
 
-- JAVASCRIPT
 - CSS
+- JAVASCRIPT
 - SQL
 
 #### Formação 📖
