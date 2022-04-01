@@ -25,12 +25,12 @@ Em 2016 me formei como desenvolvedor de jogos. Na graduação aprendi o que era 
 #### Estudos com maior foco no momento 🎯
 
 - HTML
+- SQL
 
 #### Pretendo estudar em seguida 📆
 
 - CSS
 - JAVASCRIPT
-- SQL
 
 #### Formação 📖
 
