@@ -14,9 +14,6 @@
 <h3 align="center">  <br>
 Oi! Obrigado por visitar o meu perfil.
 </h3>
-<h4 allign="center"< <br>
-Em 2016 me formei como desenvolvedor de jogos. Na graduação aprendi o que era programar, utilizei algumas tecnologias e me apaixonei pela coisa. Em 2021 iniciei estudos em definitivo na área de programação. Atualmente busco evoluir minhas capacidades, faço um curso técnico e outros complementares, sendo assim, meu perfil no GitHub é um reflexo de meus avanços e das tecnologias que estou buscando aprender e evoluir.
-</h4> 
   
 #### Estudos em estado de continuidade 🔄
   
@@ -34,8 +31,8 @@ Em 2016 me formei como desenvolvedor de jogos. Na graduação aprendi o que era 
 
 #### Formação 📖
 
-- Graduação Superior Tecnológica em Jogos Digitais pela Universidade Católica de Pernambuco.
 - Cursando atualmente Técnico em Desenvolvimento de Sistemas pelo SENAC.
+- Graduação Superior Tecnológica em Jogos Digitais pela Universidade Católica de Pernambuco.
 
 </div>
 
