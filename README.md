@@ -27,6 +27,7 @@ Oi! Obrigado por visitar o meu perfil.
 
 #### Pretendo estudar em seguida 📆
 
+- JAVA
 - JAVASCRIPT
 
 #### Formação 📖
