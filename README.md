@@ -18,16 +18,16 @@ Oi! Obrigado por visitar o meu perfil.
 #### Estudos em estado de continuidade 🔄
   
 - PYTHON
-- SQL
  
 #### Estudos com maior foco no momento 🎯
 
-- HTML
-- CSS
+- JAVA
+- SQL
 
 #### Pretendo estudar em seguida 📆
 
-- JAVA
+- HTML
+- CSS
 - JAVASCRIPT
 
 #### Formação 📖
