@@ -1,9 +1,9 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/claudemirwss/">
-<img height="145px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&show_icons=true&&custom_title=Meu Status no Github&theme=tokyonight"/>
-<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&langs_count=8&hide=Powershell,Batchfile&custom_title=Linguagens Mais Utilizadas&theme=tokyonight"/>  
- 
+<img height="145px" src="https://github-readme-stats.vercel.app/api?username=claudemirws&theme=dark&show_icons=true"/>
+<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemirws&layout=compact&hide=Powershell,Batchfile&theme=dark"/>  
+
 <!--<img height="30px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> --> 
 <!--<img height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> --> 
 <!--<img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> --> 
