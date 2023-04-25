@@ -17,7 +17,6 @@ Oi! Obrigado por visitar o meu perfil.
   
 #### Estudos em estado de continuidade 🔄
   
-- PYTHON
 - SQL
  
 #### Estudos com maior foco no momento 🎯
@@ -26,9 +25,9 @@ Oi! Obrigado por visitar o meu perfil.
 
 #### Pretendo estudar em seguida 📆
 
+- JAVASCRIPT  
 - HTML
 - CSS
-- JAVASCRIPT
 
 #### Formação 📖
 
