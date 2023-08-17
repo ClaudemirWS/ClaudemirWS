@@ -22,12 +22,13 @@ Oi! Obrigado por visitar o meu perfil.
   
 #### Estudos com maior foco no momento 🎯
 
-- JAVASCRIPT  
+- JAVASCRIPT
+- HTML
+- CSS
   
 #### Pretendo estudar em seguida 📆
 
-- HTML
-- CSS
+- JAVA WEB
 
 #### Formação 📖
 
