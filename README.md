@@ -22,17 +22,16 @@ Oi! Obrigado por visitar o meu perfil.
   
 #### Estudos com maior foco no momento 🎯
 
-- JAVASCRIPT
 - HTML
 - CSS
   
 #### Pretendo estudar em seguida 📆
 
-- JAVA WEB
+- JAVASCRIPT
 
 #### Formação 📖
 
-- Cursando atualmente Técnico em Desenvolvimento de Sistemas pelo SENAC.
+- Formação Técnica em Desenvolvimento de Sistemas pelo SENAC.
 - Graduação Superior Tecnológica em Jogos Digitais pela Universidade Católica de Pernambuco.
 
 </div>
